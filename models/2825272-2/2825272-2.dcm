@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2825272-2
+D Configuration Features: Number of Positions 2 | Number of Rows 2 | PCB Mount Orientation Vertical | Number of Power Positions 0 | Number of Signal Positions 2 | Contact Features: Contact Current Rating (Max) 13 AMP | Contact Mating Area Plating Material Tin | Contact Retention Within Housing With | Contact Type Pin | Contact Layout Inline | Contact Base Material Brass | Contact Mating Area Plating Material Thickness 2.032 MICM | Contact Mating Area Plating Material Thickness 80 MICIN | PCB Contact Terminati
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2825272&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
+#End Doc Library

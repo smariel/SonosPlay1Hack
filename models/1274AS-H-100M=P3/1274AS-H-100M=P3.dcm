@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1274AS-H-100M=P3
+D Toko DEM10050C Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 10 uH Wire-Wound 8.2A Idc
+K
+F https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243B-0058_DEM10050C_reference.pdf
+$ENDCMP
+#
+#End Doc Library
